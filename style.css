@@ -73,7 +73,7 @@ nav .menu {
 
 .conteudo.invertido {
   flex-direction: row-reverse;
-  width: 50%;
+
 }
 
 .conteudo img {
